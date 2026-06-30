@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 <div align="center">
 
 <table>
-<tr>
+<>
 <td width="50%">
 
 <h3 align="center">Flower Shop</h3>
@@ -72,9 +72,7 @@ HTML • CSS • React • Redux • Node.js • MongoDB • Cloudinary
 </p>
 
 </td>
-</tr>
 
-<tr>
 <td width="50%">
 
 <h3 align="center">Telegram bot</h3>
