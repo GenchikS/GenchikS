@@ -57,17 +57,17 @@ Here are some ideas to get you started:
 <h3 align="center">Flower Shop</h3>
 
 <p align="center">
-<img src="/screenshots/pagination.jpg" width="300" height=""400>
+<img src="/screenshots/pagination.jpg" width="80" height=""150>
 </p>
 
 <p align="center">
-React • Redux • Node.js • MongoDB
+HTML • CSS • React • Redux • Node.js • MongoDB • Cloudinary
 </p>
 
 <p align="center">
-<a href="https://github.com/">GitHub</a>
+<a href="https://https://github.com/GenchikS/Flowers-home/">GitHub</a>
 &nbsp; | &nbsp;
-<a href="https://vercel.com/">Demo</a>
+<a href="flowers-home.vercel.app">Demo (Free Vercel)</a>
 </p>
 
 </td>
