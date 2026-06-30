@@ -99,10 +99,8 @@ Python • GPT API • Telegram Bot API
 
 </div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gennadii_S&show_icons=true&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gennadiiwork&show_icons=true&theme=radical)
-
-
+![GitHub Streak](https://streak-stats.demolab.com?user=Gennadii_S&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=GenchikS&theme=radical)
 
 
 
