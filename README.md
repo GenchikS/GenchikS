@@ -30,9 +30,9 @@ Full Stack Developer
 
 
 
-![GitHub repo](https://img.shields.io/badge/github-repo-blue?logo=github)
+![GitHub](https://img.shields.io/badge/github?logo=github)
 
-
+<!-- -repo-blue -->
 
 
 <!-- ![Preview](./screenshots/main.png) -->
