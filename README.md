@@ -56,10 +56,8 @@ Here are some ideas to get you started:
 
 <h3 align="center">Flower Shop</h3>
 
-<p align="left">
+<p align="center">
 <img src="/screenshots/pagination.jpg" width="80" height=""150>
-</p>
-<p align="right">
 <img src="/screenshots/login.jpg" width="80" height=""150>
 </p>
 
