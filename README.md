@@ -1,4 +1,4 @@
-## Hi there! I'm Gennadii 👋
+# Hi there! I'm Gennadii 👋
 
 <!--
 **GenchikS/GenchikS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,10 +25,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<br/>
 ## Full Stack Developer
-<br/>
-<br/>
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,ts,js,react,redux,nodejs,py)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=github,vite,postman,mongodb,vscode,pycharm,vercel,)](https://skillicons.dev)
 <!-- ![GitHub repo](https://img.shields.io/badge/github-repo-blue?logo=github) -->
