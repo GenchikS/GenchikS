@@ -49,15 +49,17 @@ Here are some ideas to get you started:
 
 
 <h2 align="center">🚀 Projects</h2>
+
 <div align="center">
 
 <table>
-<td width="50%">
+<tr>
+<td width="50%" align="center" valign="top">
 
 <h3 align="center">Flower Shop</h3>
 
 <p align="center">
-<img src="/screenshots/pagination.jpg" width="150" height=""150>
+<img src="/screenshots/pagination.jpg" width="100%">
 </p>
 
 <p align="center">
@@ -72,16 +74,16 @@ HTML • CSS • React • Redux • Node.js • MongoDB • Cloudinary
 
 </td>
 
-<td width="50%">
+<td width="50%" align="center" valign="top">
 
 <h3 align="center">Telegram bot</h3>
 
 <p align="center">
-<img src="/screenshots/bot.jpg" width="150" height=""150>
+<img src="/screenshots/bot.jpg" width="100%">
 </p>
 
 <p align="center">
-pyton • GPT
+Python • GPT API • Telegram Bot API
 </p>
 
 <p align="center">
@@ -91,6 +93,7 @@ pyton • GPT
 </p>
 
 </td>
+
 </tr>
 </table>
 
