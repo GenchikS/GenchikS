@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 <h3 align="center">Flower Shop</h3>
 
 <p align="center">
-<img src="https://github.com/user/repo/assets/demo.png" width="500">
+<img src="/screenshots/pagination.jpg" width="300" height=""400>
 </p>
 
 <p align="center">
