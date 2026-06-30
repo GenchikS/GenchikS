@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=html,css,ts,js,react,redux,nodejs,py)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=github,vite,postman,mongodb,vscode,pycharm,vercel,)](https://skillicons.dev)
 <!-- ![GitHub repo](https://img.shields.io/badge/github-repo-blue?logo=github) -->
-
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 
 
