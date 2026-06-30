@@ -49,7 +49,6 @@ Here are some ideas to get you started:
 
 
 <h2 align="center">🚀 Projects</h2>
-<table align="center">
 
 <table>
 <tr>
@@ -73,9 +72,6 @@ HTML • CSS • React • Redux • Node.js • MongoDB • Cloudinary
 
 </td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td width="50%">
 
@@ -99,7 +95,29 @@ pyton • GPT
 </tr>
 </table>
 
-</table>
+<!-- <table>
+<tr>
+<td width="50%">
+
+<h3 align="center">Telegram bot</h3>
+
+<p align="center">
+<img src="/screenshots/bot.jpg" width="150" height=""150>
+</p>
+
+<p align="center">
+pyton • GPT
+</p>
+
+<p align="center">
+<a href="https://github.com/GenchikS/telegram_bot_gpt">GitHub</a>
+&nbsp; | &nbsp;
+<p>GPT (Free token gpt)</p>
+</p>
+
+</td>
+</tr>
+</table> -->
 
 
 
