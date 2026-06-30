@@ -99,6 +99,8 @@ Python • GPT API • Telegram Bot API
 
 </div>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gennadii_S&show_icons=true&theme=radical)
+
 
 
 
