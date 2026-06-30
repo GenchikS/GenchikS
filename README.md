@@ -28,7 +28,10 @@ Here are some ideas to get you started:
 <br/>
 Full Stack Developer
 
-https://img.shields.io/badge/github-repo-blue?logo=github
+
+
+![GitHub repo](https://img.shields.io/badge/github-repo-blue?logo=github)
+
 
 
 
