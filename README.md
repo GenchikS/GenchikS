@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 Full Stack Developer
 
 
-
-![GitHub](https://img.shields.io/badge/github-repo-blue?logo=github)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+![GitHub repo](https://img.shields.io/badge/github-repo-blue?logo=github)
 
 
 
