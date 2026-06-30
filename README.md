@@ -89,7 +89,7 @@ Python • GPT API • Telegram Bot API
 <p align="center">
 <a href="https://github.com/GenchikS/telegram_bot_gpt">GitHub</a>
 &nbsp; | &nbsp;
-<p>GPT (Free token gpt)</p>
+<span>GPT (Free token gpt)</span>
 </p>
 
 </td>
