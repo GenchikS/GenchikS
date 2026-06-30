@@ -48,7 +48,31 @@ Here are some ideas to get you started:
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 
-<!-- ![Preview](./screenshots/main.png) -->
+<h2 align="center">🚀 Projects</h2>
+
+<table>
+<tr>
+<td width="50%">
+
+<h3 align="center">Flower Shop</h3>
+
+<p align="center">
+<img src="https://github.com/user/repo/assets/demo.png" width="500">
+</p>
+
+<p align="center">
+React • Redux • Node.js • MongoDB
+</p>
+
+<p align="center">
+<a href="https://github.com/">GitHub</a>
+&nbsp; | &nbsp;
+<a href="https://vercel.com/">Demo</a>
+</p>
+
+</td>
+</tr>
+</table>
 
 
 
