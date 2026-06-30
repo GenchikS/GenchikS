@@ -65,7 +65,7 @@ HTML • CSS • React • Redux • Node.js • MongoDB • Cloudinary
 </p>
 
 <p align="center">
-<a href="https://https://github.com/GenchikS/Flowers-home/">GitHub</a>
+<a href="https://github.com/GenchikS/Flowers-home/">GitHub</a>
 &nbsp; | &nbsp;
 <a href="flowers-home.vercel.app">Demo (Free Vercel)</a>
 </p>
