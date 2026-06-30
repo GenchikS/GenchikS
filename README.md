@@ -99,7 +99,6 @@ Python • GPT API • Telegram Bot API
 
 </div>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Gennadii_S&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com?user=GenchikS&theme=radical)
 
 
